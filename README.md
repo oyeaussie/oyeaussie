@@ -25,7 +25,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
 ## Tech/Life Journey
-- 1979 : Birth, f... me! Why? Anyhow...
+- 1979 : Birth, why? Anyhow...
 - 1989 : Introduction to computer via the game hangman. That day I realized 2 things :
   1) I love computers.
   2) I suck at spelling.<br>
