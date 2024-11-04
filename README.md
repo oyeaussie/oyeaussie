@@ -62,6 +62,8 @@
 - 2023 : Customer duped me! Loss of finance and jobworks. Locked in India again, in a remote location, with my laptop and books! 2 options:
   1) See this event related to customer as a failure... or
   2) Is it an oppurtunity to learn more? Yes!
+- 2024 : Took part in the 2024 IP2Location Contest and won first prize for PHPFirewall application. Yay! Thank you IP2Location for giving me the prize!
+  [https://contest.ip2location.com/winners](https://contest.ip2location.com/winners)
   
 Write more code! Learn more! Read more! Happy life! ;-)
 
