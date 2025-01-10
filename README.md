@@ -57,7 +57,7 @@
   6) Change mindset to positive. Read PHP manual, write code, read docs, online forums, stackoverflow, watch online vidoes.
   7) write code... write code... write code...
   8) Introduction to different frameworks, laravel, wordpress, Phalcon, wait what? PHP extension written in C. Love it!
-  9) Start development of a new framework ![SP](https://github.com/sp-framework/core) using Phalcon... still writing... whenever I get a change. Single dev, what do you expect huh?
+  9) Start development of a new framework ![SP](https://github.com/sp-framework/core) using Phalcon... still writing... whenever I get a chance. Single dev, what do you expect huh?
 - 2021 : Travel bug, travelled south, central, north, west coast of Australia driving 30k Kms. 
 - 2023 : Customer duped me! Loss of finance and jobworks. Locked in India again, in a remote location, with my laptop and books! 2 options:
   1) See this event related to customer as a failure... or
